@@ -1,0 +1,12 @@
+body{background-color: #2D70B3;}
+.cabecalho{background-color: #06111A;display: flex; color:antiquewhite; justify-content: space-around; }
+.cabecalho-item-lista{justify-content: space-around; margin: 12px 0;padding: 0 16px;font-size: 40px; display: flex;font-family: 'Fasthand', cursive}
+.cabecalho-imagem{width: 10%;}
+.secao-1{justify-content: space-around;display: flex;align-items:normal;font-size: 20px;}
+.secao-1-paragrafo-2{font-family: 'Noto Sans JP', sans-serif;}
+.secao-1-imagem{width: 50%;}
+.secao-2{justify-content:space-around;text-align: center;}
+.secao-2-imagem{width: 40%;}
+.rodape-imagem{width: 50px;}
+.rodape{background-color: #06111A;display: flex;justify-content: space-around;color: beige;}
+.secao-2-todas-as-imagens{display: grid;grid-template-columns: 20% 20% 20% 20% 20%;}
